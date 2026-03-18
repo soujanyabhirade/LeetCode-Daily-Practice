@@ -64,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0036-valid-sudoku) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
