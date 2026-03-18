@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
