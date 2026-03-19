@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 ## String
 |  |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
