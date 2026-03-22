@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
@@ -139,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
