@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -136,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
