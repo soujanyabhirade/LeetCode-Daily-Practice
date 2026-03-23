@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
