@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0089-gray-code) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0089-gray-code) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Depth-First Search
 |  |
 | ------- |
