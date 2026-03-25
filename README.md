@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0096-unique-binary-search-trees) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0096-unique-binary-search-trees) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Hash Table
@@ -195,13 +197,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
