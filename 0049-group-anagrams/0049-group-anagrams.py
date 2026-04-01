@@ -1,15 +1,8 @@
+from collections import defaultdict
+
 class Solution:
     def groupAnagrams(self, strs):
-
-        groups = {}
-
-        for word in strs:
-
-            key = ''.join(sorted(word))
-
-            if key not in groups:
-                groups[key] = []
-
-            groups[key].append(word)
-
+        groups = defaultdict(list)
+        for s in strs:
+            groups[tuple(sorted(s))].append(s)
         return list(groups.values())
