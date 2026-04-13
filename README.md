@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 ## Sorting
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
