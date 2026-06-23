@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Tree
