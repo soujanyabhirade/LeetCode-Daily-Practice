@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
 ## Trie
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
+| [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
 ## Matrix
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0043-multiply-strings) |
+| [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Greedy
 |  |
@@ -309,10 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
+| [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
 ## Breadth-First Search
 |  |
 | ------- |
