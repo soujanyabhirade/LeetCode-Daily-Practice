@@ -1,6 +1,6 @@
-from collections import Counter
+from collections import Counter, defaultdict
 
-class Solution:
+class Solution(object):
     def findSubstring(self, s, words):
         if not s or not words:
             return []
@@ -8,35 +8,43 @@ class Solution:
         word_len = len(words[0])
         word_count = len(words)
         total_len = word_len * word_count
-        word_freq = Counter(words)
+
+        target = Counter(words)
         result = []
 
+        # Try all possible starting offsets
         for offset in range(word_len):
             left = offset
-            curr_freq = Counter()
-            matched = 0
+            current = defaultdict(int)
+            count = 0
 
             for right in range(offset, len(s) - word_len + 1, word_len):
                 word = s[right:right + word_len]
 
-                if word in word_freq:
-                    curr_freq[word] += 1
-                    if curr_freq[word] == word_freq[word]:
-                        matched += 1
+                if word in target:
+                    current[word] += 1
+                    count += 1
 
-                    while curr_freq[word] > word_freq[word]:
+                    # Too many occurrences of this word
+                    while current[word] > target[word]:
                         left_word = s[left:left + word_len]
-                        if curr_freq[left_word] == word_freq[left_word]:
-                            matched -= 1
-                        curr_freq[left_word] -= 1
+                        current[left_word] -= 1
+                        count -= 1
                         left += word_len
 
-                    if matched == len(word_freq):
+                    # Found a valid window
+                    if count == word_count:
                         result.append(left)
 
+                        left_word = s[left:left + word_len]
+                        current[left_word] -= 1
+                        count -= 1
+                        left += word_len
+
                 else:
-                    curr_freq.clear()
-                    matched = 0
+                    # Reset window
+                    current.clear()
+                    count = 0
                     left = right + word_len
 
         return result
