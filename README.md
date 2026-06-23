@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0091-decode-ways) |
 | [0383-ransom-note](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Trie
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0089-gray-code) |
+| [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Depth-First Search
 |  |
