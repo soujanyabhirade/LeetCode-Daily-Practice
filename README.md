@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
