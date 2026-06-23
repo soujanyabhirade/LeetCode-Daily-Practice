@@ -1,13 +1,22 @@
-class Solution:
+class Solution(object):
     def romanToInt(self, s):
-        roman = {'I': 1, 'V': 5, 'X': 10, 'L': 50,
-                 'C': 100, 'D': 500, 'M': 1000}
-        
+        values = {
+            'I': 1,
+            'V': 5,
+            'X': 10,
+            'L': 50,
+            'C': 100,
+            'D': 500,
+            'M': 1000
+        }
+
         total = 0
+
         for i in range(len(s)):
-            if i + 1 < len(s) and roman[s[i]] < roman[s[i + 1]]:
-                total -= roman[s[i]]
+            # If current value is less than next value, subtract it
+            if i < len(s) - 1 and values[s[i]] < values[s[i + 1]]:
+                total -= values[s[i]]
             else:
-                total += roman[s[i]]
-        
+                total += values[s[i]]
+
         return total
