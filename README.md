@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0220-contains-duplicate-iii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
