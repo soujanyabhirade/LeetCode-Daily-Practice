@@ -1,29 +1,34 @@
 import heapq
 
-class Solution:
+class Solution(object):
     def getSkyline(self, buildings):
+        # Create events
         events = []
         for left, right, height in buildings:
             events.append((left, -height, right))
             events.append((right, 0, 0))
 
+        # Sort by x-coordinate, then height
         events.sort()
 
         result = []
+        # Heap stores (-height, end)
         heap = [(0, float('inf'))]
-        prev_max_height = 0
 
         for x, neg_h, right in events:
-            if neg_h != 0:
-                heapq.heappush(heap, (neg_h, right))
 
-            while heap[0][1] <= x:
+            # Remove buildings that have ended
+            while heap and heap[0][1] <= x:
                 heapq.heappop(heap)
 
-            curr_max_height = -heap[0][0]
+            # Add new building if it is a start event
+            if neg_h:
+                heapq.heappush(heap, (neg_h, right))
 
-            if curr_max_height != prev_max_height:
-                result.append([x, curr_max_height])
-                prev_max_height = curr_max_height
+            current_height = -heap[0][0]
+
+            # Add key point if height changes
+            if not result or result[-1][1] != current_height:
+                result.append([x, current_height])
 
         return result
