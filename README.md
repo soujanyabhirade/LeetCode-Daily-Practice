@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
 | [0400-nth-digit](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1929-concatenation-of-array) |
 | [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
