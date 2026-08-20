@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
+| [0400-nth-digit](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0400-nth-digit) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0400-nth-digit](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0400-nth-digit) |
 ## Enumeration
 |  |
 | ------- |
