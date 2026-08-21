@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1929-concatenation-of-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1929-concatenation-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Hash Table
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Recursion
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1929-concatenation-of-array) |
 | [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Greedy
 |  |
