@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0477-total-hamming-distance](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
+| [0477-total-hamming-distance](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0477-total-hamming-distance) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
+| [0477-total-hamming-distance](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0645-set-mismatch) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
