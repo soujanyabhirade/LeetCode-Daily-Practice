@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0477-total-hamming-distance) |
+| [0478-generate-random-point-in-a-circle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -446,10 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0478-generate-random-point-in-a-circle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 ## Geometry
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 ## Quickselect
 |  |
 | ------- |
@@ -479,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
