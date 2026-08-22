@@ -2,7 +2,6 @@ class Solution:
     def checkStrings(self, s1, s2):
         even1 = [0] * 26
         even2 = [0] * 26
-
         odd1 = [0] * 26
         odd2 = [0] * 26
 
