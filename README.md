@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0645-set-mismatch) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1470-shuffle-the-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Simulation
 |  |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Divide and Conquer
 |  |
