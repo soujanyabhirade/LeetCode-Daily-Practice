@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1470-shuffle-the-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0645-set-mismatch) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Depth-First Search
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Tree
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -545,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0837-new-21-game) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
