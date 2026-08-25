@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0229-majority-element-ii) |
@@ -593,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
