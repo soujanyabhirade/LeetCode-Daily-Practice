@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0091-decode-ways) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
