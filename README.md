@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0824-goat-latin) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0221-maximal-square) |
 | [0458-poor-pigs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0837-new-21-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0837-new-21-game) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0820-short-encoding-of-words) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
