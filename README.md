@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0811-subdomain-visit-count) |
+| [0819-most-common-word](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0819-most-common-word) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0811-subdomain-visit-count) |
 | [0816-ambiguous-coordinates](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0816-ambiguous-coordinates) |
+| [0819-most-common-word](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0819-most-common-word) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0811-subdomain-visit-count) |
+| [0819-most-common-word](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0811-subdomain-visit-count) |
+| [0819-most-common-word](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Randomized
 |  |
