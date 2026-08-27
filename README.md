@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-ambiguous-coordinates](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0816-ambiguous-coordinates) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Randomized
 |  |
 | ------- |
