@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0837-new-21-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0837-new-21-game) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0877-stone-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0877-stone-game) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0869-reordered-power-of-2) |
+| [0877-stone-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
+| [0877-stone-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 ## Bitmask
@@ -668,10 +672,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 ## Union-Find
 |  |
