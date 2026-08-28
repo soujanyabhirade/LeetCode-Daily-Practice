@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0879-profitable-schemes) |
+| [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0202-happy-number) |
 | [0809-expressive-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0869-reordered-power-of-2) |
+| [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2751-robot-collisions](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
@@ -714,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0879-profitable-schemes) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
