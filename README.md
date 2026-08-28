@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0848-shifting-letters) |
+| [0849-maximize-distance-to-closest-person](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0849-maximize-distance-to-closest-person) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0874-walking-robot-simulation) |
