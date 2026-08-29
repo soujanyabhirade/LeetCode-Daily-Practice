@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
+| [0883-projection-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0878-nth-magical-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0840-magic-squares-in-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0840-magic-squares-in-grid) |
+| [0883-projection-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0478-generate-random-point-in-a-circle) |
+| [0883-projection-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 ## Quickselect
 |  |
 | ------- |
