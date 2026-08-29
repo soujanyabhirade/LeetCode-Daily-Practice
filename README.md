@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
 | [0883-projection-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0883-projection-area-of-3d-shapes) |
+| [0891-sum-of-subsequence-widths](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0878-nth-magical-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0887-super-egg-drop](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0887-super-egg-drop) |
+| [0891-sum-of-subsequence-widths](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0891-sum-of-subsequence-widths) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0869-reordered-power-of-2) |
 | [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
+| [0891-sum-of-subsequence-widths](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0891-sum-of-subsequence-widths) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2751-robot-collisions](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
