@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0859-buddy-strings) |
+| [0899-orderly-queue](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0899-orderly-queue) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0887-super-egg-drop) |
 | [0891-sum-of-subsequence-widths](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0892-surface-area-of-3d-shapes) |
+| [0899-orderly-queue](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0899-orderly-queue) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0869-reordered-power-of-2) |
 | [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
 | [0891-sum-of-subsequence-widths](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0891-sum-of-subsequence-widths) |
+| [0899-orderly-queue](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0899-orderly-queue) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2751-robot-collisions](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -756,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0878-nth-magical-number) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
