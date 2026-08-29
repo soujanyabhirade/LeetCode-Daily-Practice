@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Math
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Recursion
 |  |
