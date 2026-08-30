@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2751-robot-collisions](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
