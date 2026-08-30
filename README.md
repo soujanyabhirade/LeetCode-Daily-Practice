@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0892-surface-area-of-3d-shapes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0908-smallest-range-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0905-sort-array-by-parity) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0881-boats-to-save-people) |
 | [0891-sum-of-subsequence-widths](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0899-orderly-queue) |
+| [0905-sort-array-by-parity](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2751-robot-collisions](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
