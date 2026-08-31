@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0820-short-encoding-of-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0820-short-encoding-of-words) |
 ## Two Pointers
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0447-number-of-boomerangs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0447-number-of-boomerangs) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0645-set-mismatch) |
