@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0822-card-flipping-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0822-card-flipping-game) |
 | [0839-similar-string-groups](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0846-hand-of-straights) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0820-short-encoding-of-words) |
+| [0822-card-flipping-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0822-card-flipping-game) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0840-magic-squares-in-grid) |
