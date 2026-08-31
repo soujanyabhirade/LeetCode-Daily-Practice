@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0445-add-two-numbers-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0445-add-two-numbers-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
 ## Matrix
 |  |
