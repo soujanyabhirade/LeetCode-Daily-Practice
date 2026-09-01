@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0383-ransom-note) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0221-maximal-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0221-maximal-square) |
 | [0458-poor-pigs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
