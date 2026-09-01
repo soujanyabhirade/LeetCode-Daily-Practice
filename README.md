@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0383-ransom-note) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0126-word-ladder-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0210-course-schedule-ii) |
@@ -849,4 +852,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
