@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Tree
 |  |
 | ------- |
