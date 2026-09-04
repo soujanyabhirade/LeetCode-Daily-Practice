@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3903-smallest-stable-index-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Tree
 |  |
 | ------- |
