@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0761-special-binary-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
 | [0514-freedom-trail](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0823-binary-trees-with-factors](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0837-new-21-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0837-new-21-game) |
