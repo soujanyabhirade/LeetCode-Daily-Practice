@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2463-minimum-total-distance-traveled](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
