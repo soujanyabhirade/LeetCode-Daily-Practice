@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2751-robot-collisions) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0415-add-strings) |
 | [0874-walking-robot-simulation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0874-walking-robot-simulation) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2069-walking-robot-simulation-ii) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Monotonic Queue
 |  |
