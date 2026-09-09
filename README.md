@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1470-shuffle-the-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0939-minimum-area-rectangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0948-bag-of-tokens) |
+| [1386-cinema-seat-allocation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0645-set-mismatch) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1386-cinema-seat-allocation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
