@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0767-reorganize-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0767-reorganize-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0912-sort-an-array) |
