@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3483-unique-3-digit-even-numbers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0044-wildcard-matching) |
+| [3483-unique-3-digit-even-numbers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0816-ambiguous-coordinates) |
 | [0869-reordered-power-of-2](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0869-reordered-power-of-2) |
 | [0906-super-palindromes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0906-super-palindromes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
