@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0820-short-encoding-of-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0820-short-encoding-of-words) |
 ## Two Pointers
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0514-freedom-trail](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0514-freedom-trail) |
 | [0839-similar-string-groups](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [2069-walking-robot-simulation-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2069-walking-robot-simulation-ii) |
