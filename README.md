@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0089-gray-code) |
+| [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
@@ -947,4 +951,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0127-word-ladder) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
