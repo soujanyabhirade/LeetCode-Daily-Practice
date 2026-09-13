@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1470-shuffle-the-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0948-bag-of-tokens) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3488-closest-equal-element-queries](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3488-closest-equal-element-queries) |
 ## Enumeration
