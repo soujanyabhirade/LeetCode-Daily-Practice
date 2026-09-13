@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3875-construct-uniform-parity-array-i) |
