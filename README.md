@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0504-base-7) |
+| [0836-rectangle-overlap](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0869-reordered-power-of-2) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0478-generate-random-point-in-a-circle) |
+| [0836-rectangle-overlap](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0892-surface-area-of-3d-shapes) |
 | [0939-minimum-area-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0939-minimum-area-rectangle) |
