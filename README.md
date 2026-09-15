@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 | [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0218-the-skyline-problem) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0377-combination-sum-iv) |
