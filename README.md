@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0088-merge-sorted-array) |
+| [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0217-contains-duplicate) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0377-combination-sum-iv) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0133-clone-graph) |
+| [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0187-repeated-dna-sequences) |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
 | [0816-ambiguous-coordinates](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0816-ambiguous-coordinates) |
 ## Linked List
 |  |
@@ -882,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
 ## Game Theory
 |  |
