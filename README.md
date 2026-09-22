@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3524-find-x-value-of-array-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3524-find-x-value-of-array-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3783-mirror-distance-of-an-integer) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0218-the-skyline-problem) |
+| [3525-find-x-value-of-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3525-find-x-value-of-array-ii) |
 ## Sweep Line
 |  |
 | ------- |
