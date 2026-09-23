@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3225-maximum-score-from-grid-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
+| [3225-maximum-score-from-grid-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3524-find-x-value-of-array-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Math
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3225-maximum-score-from-grid-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [2615-sum-of-distances](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
