@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2615-sum-of-distances](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [2615-sum-of-distances](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2615-sum-of-distances) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Indexed Tree
 |  |
