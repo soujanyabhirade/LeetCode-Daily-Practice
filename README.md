@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3524-find-x-value-of-array-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3783-mirror-distance-of-an-integer) |
