@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1096-brace-expansion-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2296-design-a-text-editor](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2296-design-a-text-editor) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2615-sum-of-distances](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
