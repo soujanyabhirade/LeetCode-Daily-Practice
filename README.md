@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0078-subsets) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0174-dungeon-game) |
