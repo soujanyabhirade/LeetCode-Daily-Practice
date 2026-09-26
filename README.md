@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0791-custom-sort-string) |
+| [0796-rotate-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0809-expressive-words) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
