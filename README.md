@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0301-remove-invalid-parentheses](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0389-find-the-difference) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0816-ambiguous-coordinates](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0816-ambiguous-coordinates) |
 | [1096-brace-expansion-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1096-brace-expansion-ii) |
 ## Linked List
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0514-freedom-trail](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0514-freedom-trail) |
 | [0839-similar-string-groups](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0854-k-similar-strings) |
