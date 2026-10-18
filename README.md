@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0910-smallest-range-ii) |
 | [0939-minimum-area-rectangle](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0939-minimum-area-rectangle) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1927-sum-game) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0761-special-binary-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0912-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Heap (Priority Queue)
@@ -851,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -865,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -873,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0099-recover-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Design
 |  |
 | ------- |
@@ -1030,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0458-poor-pigs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Memoization
@@ -1037,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0140-word-break-ii) |
 | [0464-can-i-win](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0464-can-i-win) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -1081,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0839-similar-string-groups) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1169,4 +1179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
