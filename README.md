@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3488-closest-equal-element-queries) |
