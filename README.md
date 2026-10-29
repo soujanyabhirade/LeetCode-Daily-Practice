@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -809,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -880,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -978,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/0218-the-skyline-problem) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -985,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/soujanyabhirade/LeetCode-Daily-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sweep Line
 |  |
 | ------- |
